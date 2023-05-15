@@ -1,0 +1,182 @@
+Hi. I need help using this javascript open source script I found. I would like to get it to run locally on my computer (without internet connection)... The goal would be to use the script to find the face in a photo and crop it based on the face position. I'd like to run this as an applescript so i can add it to mac automation in automator or Shortcuts. If this is something you can do, let me know how much it would cost and how many days you would need. here is a link to the open source script:: https://justadudewhohacks.github.io/face-api.js/docs/index.html
+
+
+Hi. I saw you were a proposal on a javascript job i posted. Interested?
+4:23 AM
+hi
+4:23 AM
+Nice to meet you
+4:23 AM
+User Avatar
+hello
+4:24 AM
+I am very interested
+4:24 AM
+you want this script to work locally?
+4:24 AM
+User Avatar
+cool, do you understand the goal? I have not found a freelancer to complete the job described.
+4:25 AM
+on MAC?
+4:25 AM
+User Avatar
+Yes, locally, but not through http... i want to run the javascript through terminal, i need a script that uses the face-api to detect the face and then crop the image (given as an input) based on the face area.
+4:26 AM
+Yes, on mac please
+4:26 AM
+Nathan G.
+@benzenewings
+Yes, locally, but not through http... i want to run… more
+I see
+4:27 AM
+User Avatar
+Terminal (bash , sh, etc)
+4:27 AM
+I see
+4:27 AM
+I can do this
+4:27 AM
+I have strong experience with this field
+4:27 AM
+slightly smiling face emoji
+4:27 AM
+how is your deadline?
+4:28 AM
+is this urgent task?
+4:28 AM
+User Avatar
+some other freelancers have offered to use other face library, such as OpenCV, which I have already done myself, it is quite easy, but not as smart at finding face as the face-api java, that is the best i have seen.
+4:28 AM
+how many days would you need?
+4:29 AM
+First, I have to check your source code carefully.
+4:29 AM
+I think I can finish this task within 3 days
+4:30 AM
+3~5 days
+4:30 AM
+is this okay with you?
+4:30 AM
+User Avatar
+it is an open source script i found, there are many example uses out there, i have even seen one using terminal to launch, but was using it to find face in webcam/security cam feed.
+4:30 AM
+aha
+4:31 AM
+got it
+4:31 AM
+your goal is to find the face in a photo and crop it based on the face position.
+4:31 AM
+right?
+4:31 AM
+can I use any method for this?
+4:32 AM
+User Avatar
+as long as i can run it in terminal so i can include it in Apple Shortcuts or Automator.
+4:32 AM
+Nathan G.
+@benzenewings
+as long as i can run it in terminal so i can… more
+Ok
+4:32 AM
+my deadline is okay?
+4:33 AM
+User Avatar
+yep, and your proposal was $200, so $200 in 3 to 5 days. Agreed?
+4:33 AM
+this is some AI script
+4:34 AM
+I think $200 is a bit unfair for this.
+Could you increase your budget a bit?
+4:34 AM
+I want $300.
+4:34 AM
+slightly smiling face emoji
+4:34 AM
+I think you already awarded this to other freelancer
+4:35 AM
+thinking face emoji
+4:35 AM
+User Avatar
+I did, for $130. He only made a http interface running off localhost. Theres plenty tutorials out there to do that, and I already accomplished that i my own. I asked if he was going to complete job and freelancer has not communicated in many days.
+4:38 AM
+Ok
+4:38 AM
+how about 250?
+4:38 AM
+I think this is a really reasonable price for us
+4:38 AM
+If you agree, you can award me and I can start right now
+4:38 AM
+User Avatar
+ya, 300 is a lil too much, but i can probably do $250, including full testing on my machine. (2022 macbook pro m2 ) ..
+4:39 AM
+I will make script and run it on your side
+4:40 AM
+no worries
+4:40 AM
+User Avatar
+in most specifics i can get, the crop area that face-api gives you.. i need to have parameters to "grow" that square area (top,right,left,bottom)
+4:41 AM
+got it
+4:42 AM
+User Avatar
+in tutorials i have read where people are using it to Draw a red square around faces, that is data of top, bottom, left, right... and I have seen someone draw a smaller/bigger area..
+4:42 AM
+great.
+4:42 AM
+User Avatar
+ChatBot
+Nathan G. rejected a milestone
+Milestone: 'Project milestone'
+Amount: $ 200.00 USD
+4:43 AM
+Nathan G. created a milestone
+Milestone: 'Initial deposit'
+Amount: $ 40.00 USD
+4:43 AM
+Congratulations, your bid has been awarded!
+Click the Accept button below to start working.
+This project has a budget of $200.00 USD and you will be charged a project commission of $20.00 USD once you've accepted.
+Accept
+4:43 AM
+what is this?
+4:43 AM
+we agreed 250
+4:43 AM
+only 40?
+4:44 AM
+User Avatar
+i clicked award, and then it just said initial deposit.
+4:44 AM
+aha
+4:44 AM
+then please add 210
+4:44 AM
+thanks for your award
+4:44 AM
+User Avatar
+ChatBot
+Nathan G. created a milestone
+Milestone: 'javascript crop image based on the face position.'
+Amount: $ 210.00 USD
+4:45 AM
+thanks for your milestone
+4:45 AM
+User Avatar
+thumbs up emoji
+4:46 AM
+I will start right now and deliver the result soon
+4:46 AM
+please wait for good news
+4:46 AM
+If there is anything I need your help, I will ask you at anytime
+4:46 AM
+okay?
+4:46 AM
+User Avatar
+great. let me know if you have questions
+4:46 AM
+not yet
+3:53 PM
+thanks
+3:53 PM
