@@ -1,4 +1,4 @@
-import * as faceapi from 'face-api.js';
+import * as faceapi from '../../dist/face-api';
 
 import { canvas, faceDetectionNet, faceDetectionOptions, saveFile } from './commons';
 
